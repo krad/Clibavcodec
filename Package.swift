@@ -5,5 +5,5 @@ import PackageDescription
 
 let package = Package(
     name: "Clibavcodec",
-    pkgConfig: "libavcodec"
+    pkgConfig: "avcodec"
 )
