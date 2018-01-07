@@ -1,5 +1,7 @@
 module Clibavcodec [system] {
   header "shim.h"
-  link ["avcodec", "swresample", "avutil"]
+  link "avcodec"
+  link "swresample"
+  link "avutil"
   export *
 }
