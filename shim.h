@@ -2,4 +2,5 @@
 #include "libavutil/common.h"
 #include "libavutil/imgutils.h"
 #include "libavutil/mathematics.h"
+#include "libavutil/error.h"
 #include "libswscale/swscale.h"
